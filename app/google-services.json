@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394603034763",
+    "firebase_url": "https://fir-prediction-63608.firebaseio.com",
+    "project_id": "fir-prediction-63608",
+    "storage_bucket": "fir-prediction-63608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394603034763:android:03ea8426ef247094",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394603034763-89douelb6daq1vg2u4cvan6m09oj757h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdajZkSgxXEml23fnVGupvjQ_f58YDPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394603034763-89douelb6daq1vg2u4cvan6m09oj757h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

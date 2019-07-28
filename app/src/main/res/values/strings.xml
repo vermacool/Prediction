@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebasePrediction</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_game">Post score</string>
+    <string name="action_purchase">Wishlist</string>
+    <string name="action_theme">Remove from cart</string>
+    <string name="notification_channel_id">Firebase Notificaton channel</string>
+    <string name="default_notification_channel_name">Prediction channel name</string>
+    <string name="msg_subscribed">You have opted this topic</string>
+    <string name="msg_subscribe_failed">Failed to subscribe</string>
+    <string name="msg_token_fmt">token</string>
+
+</resources>
